@@ -8,7 +8,7 @@
 
 Авторизируемся в приложении, используя свой логи и пароль. Если все хорошо, радуемся примерно такому раскладу
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/1.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/1.PNG)
 
 ## Шаг 3
 
@@ -16,11 +16,11 @@
 
 Переходим на вкладку URL и вставляем туда адрес вашей копии репозитория, не забывая указать, куда сохранить файлы на диске.
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/2.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/2.PNG)
 
 После успешного забора задания увидите такую красивую картину
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/3.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/3.PNG)
 
 ## Шаг 4
 
@@ -28,18 +28,18 @@
 
 В тот момент, как вы посчитаете что закончили (или просто решите сохранить свои наработки или, чтобы спросить что-то у преподавателя) возвращаемся к программе GitHub Desktop. Открываем ее и выбираем репозиторий с заданием, над которым вы сейчас работаете. Сделать это можно указанным на фото способом
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/7.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/7.PNG)
 
 В левой части окна видим все изменения, которые произошли в папке. Новые файлы помечаются зеленым плюсом, измененные точкой. Выбираем те файлы, изменения которых мы хотим сохранить. Если хотите сохранить изменения всех файлов - пожалуйста. Выбирайте все! 
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/4.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/4.PNG)
 
 Затем внизу пишем краткий комментарий что было сделано и жмем кнопочку *Commit*. 
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/5.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/5.PNG)
 
 Таким образом мы создали коммит. То есть сохранили состояние вашего проекта. Все коммиты создаются локально и их нужно отправить на сервер. Число коммитов, которые надо отправить на сервер, можно увидеть справа вверху
 
-![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/6.png)
+![Иллюстрация к проекту](https://github.com/zloiia-edu/students_github/raw/master/images/6.PNG)
 
 Для отправки коммитов на сервер жмем эту кнопку и дожидаемся, когда коммиты улетят на сервер. 
